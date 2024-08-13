@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Dynamic_Arrays\bin\Debug\Dynamic_Arrays.exe.config
+C:\Users\Dell\source\repos\Dynamic_Arrays\bin\Debug\Dynamic_Arrays.exe
+C:\Users\Dell\source\repos\Dynamic_Arrays\bin\Debug\Dynamic_Arrays.pdb
+C:\Users\Dell\source\repos\Dynamic_Arrays\obj\Debug\Dynamic_Arrays.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Dynamic_Arrays\obj\Debug\Dynamic_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Dynamic_Arrays\obj\Debug\Dynamic_Arrays.exe
+C:\Users\Dell\source\repos\Dynamic_Arrays\obj\Debug\Dynamic_Arrays.pdb
